@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  utkarsh bhadoria aka @candyrock10
+- 👋 Hi, I’m  utkarsh bhadoria 
 - 👀 I’m interested in learning new things every day
 - 🌱 I’m currently learning DSA,PYTHON,DBMS
 
